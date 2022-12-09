@@ -1,0 +1,3 @@
+planet;mass(kg);markersize(int);distance_from_center(AU);y_ap_vitesse(m/s); z_ap_vitesse(m/s);Color
+Rigil Kentaurus;2.2e30;4;6;2000;100;#FFB410
+Toliman;

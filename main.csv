@@ -1,0 +1,9 @@
+nomfichier;description
+SysSol_config.csv;Entire Solar System
+SysSolgrand_config.csv;Solar Sytem with only large orbit (from Jupiter)
+SysSolpetit_config.csv;Solar System wwith only little orbit (to Ceres)
+SysSolpetit_alt_config.csv;Solar System wwith only little orbit (to Ceres) with aberation from the simulation
+ProximaCentauri_config.csv;Proxima Centauri System
+AlphaCentauri_config.csv;Center of the Alpha Centauri System
+Prout_config.csv;La petite soirée de Demain
+SysSol+Proxima_config.csv;Proxima enter in the solar System

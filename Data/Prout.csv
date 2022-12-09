@@ -1,0 +1,7 @@
+planet;mass(kg);markersize(int);distance_from_sun(AU);y_ap_vitesse(m/s); z_ap_vitesse(m/s);Color
+Raph;3e25;2;3;30000;2000;#FFA500
+Ines;2e23;1;0.4;23000;7000;#FFA500
+Victor;1e30;4;20;10000;3000;#FFA500
+Quentin;1e22;1;40;6000;2000;#FFA500
+Sun;2000000e25;3;0.0;0.0;0.0;#FFB410
+Cycy;8e28;3;60;2000;8000;#FF0000

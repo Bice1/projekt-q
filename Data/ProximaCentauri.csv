@@ -1,0 +1,5 @@
+planet;mass(kg);markersize(int);distance_from_center(AU);y_ap_vitesse(m/s);z_ap_vitesse(m/s);Color
+Proxima Centauri;1.2e29;5;0;1000;2000;#8B0000
+Proxima Centauri b;7.8e24;2;0.05;30677;100;#B9ACA1
+Proxima Centauri d;1.5e24;1;0.03;40300;100;#A6A8AA
+

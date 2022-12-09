@@ -1,0 +1,8 @@
+planet;mass(kg);markersize(int);distance_from_sun(AU);y_ap_vitesse(m/s); z_ap_vitesse(m/s);Color
+Sun;2.00E+30;6;0.0;0.0;0.0;#FFB410
+Jupiter;1.898e27;3;5.454;12447;69;#FFA500
+Saturn;5.683e26;2;10.12;9139;148;#E3B53E
+Uranus;8.681e25;1;20.10;6484;115;#00FFFF
+Neptune;1.024e26 ;1;30.33;5385;67;#0080FF
+Pluto;1.303e22;1;49.305;3626;1108;#A47551
+Proxima Centauri;1.2e29;5;70;1000;500;#8B0000

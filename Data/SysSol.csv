@@ -1,0 +1,10 @@
+planet;mass(kg);markersize(int);distance_from_sun(AU);y_ap_vitesse(m/s); z_ap_vitesse(m/s);Color
+Sun;2000000e30;3;0.0;0.0;0.0;#FFB410
+Mercury;6.39e20;1;0.466;38622;4291;#A9A9A9
+Venus;4.8675e24;1;0.728;34763;1329;#C7A68F
+Earth;5.97e24;1;1.0167;29280;802;#0080FF
+Mars;0.642e24;1;1.666;21965;640;#FF4000
+Jupiter;1.898e27 ;2 ;5.454 ;12447;69;#FFA500
+Saturn;5.683e26;2;10.12;9139;148;#E3B53E
+Uranus;8.681e25;1;20.10;6484;115;#00FFFF
+Neptune;1.024e26 ;1;30.33 ;5385;67;#0080FF
